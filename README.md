@@ -6,3 +6,11 @@
 </br>3.使用SharedPreferences更新并保存高分榜
 </br>4.通过ArrayList记录蛇身的坐标
 </br>5.使用Bitmap加载蛇身和各种道具的图片。
+# 首页
+![Image](https://github.com/Chen0901/GrowUpSnake/raw/master/Img/GUS01.jpg)
+# 规则页
+![Image](https://github.com/Chen0901/GrowUpSnake/raw/master/Img/GUS02.jpg)
+# 游戏主页
+![Image](https://github.com/Chen0901/GrowUpSnake/raw/master/Img/GUS03.jpg)
+# 排行榜
+![Image](https://github.com/Chen0901/GrowUpSnake/raw/master/Img/GUS04.jpg)
